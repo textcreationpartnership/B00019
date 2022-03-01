@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be inquired by [th]e churchwardens and sworne-men of [the] dioces and jurisdiction of Peterborough, [in] the visitation of the reuerend father in God, Thomas by Gods permission L. Bishop of Peterborough, in the yeare of our lord God 1602. and in the xliiij. yeare of the raigne of our soueraigne Ladie Elizabeth by the grace of God of England, France, and Ireland Queene, defender of the faith, &amp;c.</title>
+            <author>Church of England. Diocese of Peterborough. Bishop (1600-1630 : Dove)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1602</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00019</idno>
+            <idno type="STC">STC 10314.2</idno>
+            <idno type="STC">ESTC S125702</idno>
+            <idno type="EEBO-CITATION">52633228</idno>
+            <idno type="OCLC">ocm 52633228</idno>
+            <idno type="VID">174029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174029)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2114:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be inquired by [th]e churchwardens and sworne-men of [the] dioces and jurisdiction of Peterborough, [in] the visitation of the reuerend father in God, Thomas by Gods permission L. Bishop of Peterborough, in the yeare of our lord God 1602. and in the xliiij. yeare of the raigne of our soueraigne Ladie Elizabeth by the grace of God of England, France, and Ireland Queene, defender of the faith, &amp;c.</title>
+                  <author>Church of England. Diocese of Peterborough. Bishop (1600-1630 : Dove)</author>
+                  <author>Dove, Thomas, 1555-1630.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Legat],</publisher>
+                  <pubPlace>[Cambridge :</pubPlace>
+                  <date>Printed 1602.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and publisher from STC (2nd ed.).</note>
+                  <note>Printers' device on t.p. (McK. 259); initial.</note>
+                  <note>Signatures: [par]⁴.</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term>Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174029:1" rendition="simple:additions"/>
+            <p>Articles <hi>TO BE JNQVIRED OF BY</hi> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Churchwardens and ſworne-men of <hi>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Dioces and Iuriſdiction of Peterborough,</hi> the viſitation of the Reuerend father in God, <hi>Thomas</hi> by Gods <hi>permiſſion L. Biſhop of Peterborough, in the yeare of our Lord</hi> God 1602. and in the xliiij. yeare of the Raigne of <hi>our Soueraigne Ladie Elizabeth by the grace of</hi> God of England, France, and Ireland <hi>Queene, Defender of the faith, &amp;c.</hi>
+            </p>
+            <figure/>
+            <p>Printed 1602.</p>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:174029:2"/>
+            <head>The tenour of the oth to be miniſtred to all and euery of the Churchwardens and ſworne-men in the ſaid viſitation.</head>
+            <p>YE ſhall ſweare by almightie God, that you ſhall diligently conſider all and euery the Articles gi<g ref="char:EOLhyphen"/>uen to you in charge, and make a true anſwer to the ſame in writing vnder your hands or marks, preſenting all and euery ſuch perſon and perſons dwelling within your pariſh, as haue committed any offence or fault, or made any default mentioned in any of the ſame Arti<g ref="char:EOLhyphen"/>cles, or which are ſuspected or defamed of any ſuch of<g ref="char:EOLhyphen"/>fence, or default: wherein ye ſhall not preſent any per<g ref="char:EOLhyphen"/>ſon or perſons of any euill will, malice, or hatred, con<g ref="char:EOLhyphen"/>trarie to the truth, nor ſhall for loue, fauour, mede, dread, or any corrupt affection, ſpare to preſent any that be offenders ſuspected or defamed in any of theſe caſes, but ſhall doe vprightly as men hauing the feare of God before their eyes, and deſirous to maintaine vertue and ſuppreſſe vice. <hi>So God helpe you, &amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb n="1" facs="tcp:174029:2"/>
+            <head>Articles to be inquired of within the Dioces of Peterborough, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Nprimis,</hi> whether your parſon, vicar, or Curate, be a preacher of Gods word, a maintainer and furthe<g ref="char:EOLhyphen"/>rer of the true &amp; ſyncere Religion of Ieſus Chriſt, now eſtabliſhed in this Realme of England by publique authoritie: and whether he be diligent and painefull in preaching or reading of Gods word, and in catechizing the youth of your pariſh the ſabbath daies and other feſtiual daies. And whether the church<g ref="char:EOLhyphen"/>wardens and ſworne-men doe aſſiſt the Miniſter as he ſhall preſcribe <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en in that godly action.</p>
+            <p n="2">2 Item, whether in the celebration of diuine ſeruice, and the admi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ration of the ſacraments, he do in euery reſpect obſerue the forme, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er, and manner preſcribed and ſet downe in the booke of Com<g ref="char:EOLhyphen"/>mon prayer, wearing then ſuch decent ornaments as by her Maieſties <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es and Iniunctions are appointed.</p>
+            <p n="3">3 Item, whether his life and conuerſation be ſober, honeſt, and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ly, and his ordinarie attire decent and comely beſeeming a mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> And if in any thing he be offenſiue, then what the ſame is where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he is ſo blemiſhed or defamed.</p>
+            <p n="4">4 Item, whether you haue had ſermons in your pariſh Church <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>thly at the leaſt: and whether are the Homilies read when there <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſermon: and whether ſuch beneficed men as be lawfully abſent <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their benefices, doe leaue their Cures to an honeſt, learned, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Curate, lawfully authorized: &amp; whether you haue the Queenes <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſties Iniunctions read quarterly, or no.</p>
+            <p n="5">5 Item, how often is the holy Communion celebrated in your <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h yearely, and whether all within your pariſh which be of ſuffi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> yeares and diſcretion, doe receiue the holy Communion thriſe in <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re at the leaſt, the feaſt of Eaſter beeing one of thoſe times:
+<pb n="2" facs="tcp:174029:3"/>
+whether they doe receiue it kneeling, and whether any excommuni<g ref="char:EOLhyphen"/>cate perſon, or any knowne or notorious offender, or any not inſtru<g ref="char:EOLhyphen"/>cted in the principles of Religion be admitted to the Communion, and if any ſuch be admitted, then to ſhew who they be.</p>
+            <p n="6">6 Item, whether your Parſon or Vicar be reſident vpon his bene<g ref="char:EOLhyphen"/>fice, and thereon keepeth hoſpitalitie: and if he be not reſident, then what diſtribution is made by him yearely among the poore people o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your ſaid pariſh.</p>
+            <p n="7">7 Item, whether your ſaid parſon, vicar, or Curate hath denied o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> delaied to viſit the ſicke, to burie the dead, to vſe the perambulation i<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Rogation weeke: &amp; whether hath he married any perſons without banes three ſeuerall ſundaies or holidaies firſt publiſhed, or within the time by law and order forbidden, beeing not lawfully licenſed the<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> unto.</p>
+            <p n="8">8 Item, whether your chauncell, your parſonage and vicaridg<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> houſes be in good and ſufficient reparations, and whether the ſame houſes be in any ſort abuſed, by keeping any victualling, drinking, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gaming therein, or by any other waies or meanes whatſoeuer.</p>
+            <p n="9">9 Item, whether your parſon, vicar, or Curate hath bought the<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> benefices or Eccleſiaſticall promotion, or came by them by fra<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>guile, deceit, or ſimmonie; and whether he hath moe benefices or ther Eccleſiaſticall liuing then he ought to haue, not hauing ſufficie<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> licenſe or diſpenſation thereunto, and how many they be.</p>
+            <p n="10">10 Item, whether your parſon, vicar, or Curate doth keepe an el<g ref="char:EOLhyphen"/>derly Regiſter booke in parchment, wherein he truly writeth <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> names of all perſons baptized, married, and buried within your pariſ<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with the ſeuerall daies thereof. And whether he doth euery ſabba<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> day after morning or euening praier publikely read the names of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them who haue beene ſo baptized, married, and buried within yo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſaid pariſh, the weeke next going before, as is appointed by the co<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtitutions lately ſet forth and confirmed by her Maieſtie vnder <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> highneſſe great ſeale.</p>
+            <p n="11">11 Item, whether hath he churched any woman after childbir<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> begotten in inceſt, adulterie, or fornication; or married any wom<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> knowne to be with child ſo begotten, without publique confeſſion their ſeuerall offences at the times of ſuch their churchings or ma<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ings before the whole congregation then aſſembled, being vpon ſo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="3" facs="tcp:174029:3"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>both or feſtiuall day at morning praier time.</p>
+            <p n="12">12 Item, whether the exerciſes heretofore preſcribed and enioy<g ref="char:EOLhyphen"/>ed to the Clergie of this Dioces for the encreaſe of their knowledge <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the holy ſcriptures be accordingly obſerued: and if not, in whoſe <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ult the ſame hath beene, or is ſo omitted or neglected.</p>
+            <p n="13">13 Item, whether are there within your pariſh any notorious ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nate Recuſants, or any who negligently or ſeldome come to your <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urch or chappell on the ſabbath daies or other feſtiuall daies, and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o they be, and how long they haue ſo continued, and of what eſtate, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gree, or condition they are of, and what are their abilities and liuings <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eemed to be.</p>
+            <p n="14">14 Item, whether any doe vſually goe out of your ſaid Church or <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ppell, or walke, talke, or ſleepe, or vſe any other vnſeemely, vnre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rent, or offenſiue behauiour in the times of publique praier, prea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng, celebration of the ſacraments, or catechizing, and who they be.</p>
+            <p n="15">15 Item, whether there be any which publikely or priuily doe in <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eches or otherwiſe depraue any part of the true religion of Ieſus <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>riſt, now eſtabliſhed within this Realme, or the Miniſters or pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſours thereof, or any part of the booke of Common praier ſet forth <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d confirmed by publique authoritie, or any who diſſwade from the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me, and who they be.</p>
+            <p n="16">16 Item, whether any Ieſuits, Seminaries, or any other knowne <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iſobedient perſons in matters of Religion, doe reſort vnto your pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iſh, and where, and by whome are they knowne or ſuſpected to be <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>boured or releeued.</p>
+            <p n="17">17 Item, whether haue you any ſchoolemaſter, who teacheth ei<g ref="char:EOLhyphen"/>ther publiquely or priuately within your ſaid pariſh, not allowed ther<g ref="char:EOLhyphen"/>unto by his Ordinarie in writing vnder ſeale, and how long hath he <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ught there: and whether doth he not vſually catechize, or inſtruct <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is ſchollers in the principles of religion.</p>
+            <p n="18">18 Item, whether haue you in your Church or chappell all bookes and other things neceſſarie and comely for the celebration of diuine ſeruice and adminiſtration of the ſacraments, and if not, what is wan<g ref="char:EOLhyphen"/>ting and in whoſe default.</p>
+            <p n="19">19 Item, whether is the bodie of your Church well repaired and reuerently kept, and whether the ſeates and ſtooles, and all other fur<g ref="char:EOLhyphen"/>niture and ornaments thereof be comely as is requiſite: and if any de<g ref="char:EOLhyphen"/>fault
+<pb n="4" facs="tcp:174029:4" rendition="simple:additions"/>
+be, then wherein and in whome the ſame is.</p>
+            <p n="20">20 Item, whether your Church or chappellyard, be well fenſe and orderly kept; and whether any fought, railed, skolded, or vſed a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> game or ſport in the ſame; and whether is there any faires or marke<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> kept therein.</p>
+            <p n="21">21 Item, whether any within your pariſh doe ſuffer any to eate, drinke, play, or iangle, and talke in their houſe or yards in the time o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Common praier, or any butchers, or other artificers, that vſually keep <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> open their ſhopwindowes, or ſell meate, drinke, or wares on ſunda<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or other comma<g ref="char:cmbAbbrStroke">̄</g>ded holidaies, in times of morning or euening praier, ſermon, or catechizing, or any who labour and worke on the ſabbath or other commanded feſtiuall daies, to the prophanation thereof, o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the offence of others, and who they be.</p>
+            <p n="22">22 Item, whether are there vſed within your ſaid pariſh, any bull<g ref="char:EOLhyphen"/>baytings, bearebaytings, maygames, morricedancers, or any ſuch lik<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> prophane paſtimes, or aſſemblies on the ſabbath daies, or other com<g ref="char:EOLhyphen"/>manded feſtiuall daies, to the hindrance of praiers, ſermons, or other godly exerciſes, or to the griefe or offence of other godly and well di<g ref="char:EOLhyphen"/>ſpoſed perſons.</p>
+            <p n="23">23 Item, whether are there in your pariſh, any inceſtuous perſons, adulterers, fornicatours, vſurers, drunkards, ſwearers, or any who are vehemently ſuſpected or defamed for any ſuch crimes, and who they be.</p>
+            <p n="24">24 Item, whether <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vſing Eccleſiaſticall iuriſdiction in this Dioces, their Regiſters or Actuaries, Apparitors or Sumnors, haue at any time winked at, and ſuffered any adulteries, fornications, inceſts, or any other faults or offences to paſſe and remaine vnpuniſhed and vncorrected, for money, rewards, bribes, pleaſure, friendſhip, or any other partiall or affectionate reſpect, and what be their names.</p>
+            <p n="25">25 Item, whether ſuch as haue beene preſented for incontinencie, for adulterie, or other notorious crimes, haue done publike penance in white ſheetes, and with white wandes in their hands in the pariſh Church of that towne where ſuch offences haue beene committed; and if not, what be their names which haue ſo eſcaped, and by what meanes.</p>
+            <p n="26">26 Item, whether any exerciſing iuriſdiction Eccleſiaſticall within
+<pb n="5" facs="tcp:174029:4"/>
+this Dioces, haue within two yeares laſt paſt commuted the penance <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ny offender within the ſaid pariſh, by impoſing vpon him or her a <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me of money; how much the ſaid ſumme was to your knowledge, whome and for whome it was ſo done, and for what offence.</p>
+            <p n="27">27 Item, whether there be within your ſaide pariſh any man that <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> two wiues, or any woman that hath two husbands liuing, any <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ried within the degrees forbidden, or without banes three ſeuerall <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s firſt publiſhed, or in the time by law and order prohibited with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cenſe thereunto, or any who haue had carnall knowledge toge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> before marriage, or that are vehemently ſuſpected thereof, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they be.</p>
+            <p n="28">28 Item, whether any in your pariſh haue beene priuately married <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ther by any vnknowne prieſt or miniſter, or any who haue not <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>red their children to be baptized publiquely in your ſaid church <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>appell by your miniſter, according to the order, manner, and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e ſet downe in the booke of Common praier, and who they be.</p>
+            <p n="29">29 Item, whether any within your ſaid pariſh haue harboured any <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> begotten with child not beeing maried, and haue ſuffred them <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part away not puniſhed, or any who doe harbour or releeue any <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ate excommunicated perſon, and what excommunicate perſons <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dere within your ſaide pariſh, and how long they haue ſo remai<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p n="30">30 Item, whether any within your pariſh doe refuſe to contribute <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ds the reparations of your Church or chappell, or towards the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſion of any neceſſarie ornaments therein, or that refuſe to pay <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Curate or pariſh clarke their wages, or other vſuall duties, and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey be.</p>
+            <p n="31">31 Item, whether the Churwardens of the laſt yeare haue faith<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and diligently diſcharged their offices, and made a iuſt account <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> payment of their Receipts to the Church vſe: And whether your <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch ſtocke, or any other thing giuen to any publique vſe, be de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by any, or otherwiſe imploied then appertaineth.</p>
+            <p n="32">32 Item, whether haue you within your pariſh a decent Regiſter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in parchment, wherein are truly ſet downe the names of all <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s baptized, maried, or buried at your ſaid Church or Chappell, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the beginning of the Queenes Maieſties raigne that now is. And <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er is the ſame booke kept in a cheſt vnder three lockes, as is co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>manded
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:174029:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:174029:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:174029:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:174029:6"/>
+               <pb n="6" facs="tcp:174029:7"/>
+by the Conſtitutions aforeſaide.</p>
+            <p n="33">33 Item, whether your Churwardens of the laſt and of the fo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> yeare, haue within one moneth next after the feaſt of Eaſter in eit<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the ſame yeares, made and ſent into the office of Regiſterſhip longing to the Lord Biſhop of this Dioces, a true copie of all <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> chriſtenings, mariages, and burialls which haue beene within your <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>riſh, according to the tenour alſo of the ſame late Conſtitutions.</p>
+            <p n="34">34 Item, whether your pariſh Clarke be dutifull and diligen<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your Miniſter, and meete and ſufficient to diſcharge his place.</p>
+            <p n="35">35 Item, whether any within your pariſh doe occupie or in<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> meddle with the goods or chattells of any deceaſed, whoſe will (if <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch be) is not lawfully approoued, or dying inteſtate the adminiſt<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on thereof not lawfully graunted, and who they be.</p>
+            <p n="36">36 Item, whether your Archdeacon or his Officiall, or any o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> exerciſing Eccleſiaſticall iuriſdiction within this Dioces in places <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>empt or not exempted (other then the Chancellor of the ſaid Di<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> eſpecially ſince the xxiiij. of Auguſt 1597. haue taken vpon the<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> graunt licenſes for marriages, admiſſions of Curates, ſchoolema<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pariſh clarkes, Sequeſtrations of vacant benefices, by any their ſu<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſed authoritie, and who they be.</p>
+            <p n="37">37 And laſtly whether you know or haue hard by common of any other crime worthie preſentment, the reformation whereo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> longeth to the Eccleſiaſticall court. And if you doe, that you d<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> well preſent them which now come to your memorie, as thoſe <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall hereafter come to your knowledge.</p>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
